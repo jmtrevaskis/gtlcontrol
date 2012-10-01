@@ -1,27 +1,29 @@
 Hotkey control for Gigabyte Tweak Launcher
 
-1. Download gtlcontrol.exe and gtlcontrol.ini
+1. Download gtlcontrol.exe and gtlcontrol.ini.
 
-2. Make sure Gigabyte Tweak Launcher is installed
+2. Make sure Gigabyte Tweak Launcher is installed.
 
-3. Edit gtlcontrol.ini to set your bclk, voltage and multiplier
+3. Edit gtlcontrol.ini to set your bclk, voltage and multiplier.
 
 4. There are 3 options for each hotkey "multienable", "voltenable" and "bclkenable". If you want to enable any of the 3 options set the value to 1, setting the value to 0 disables the respective option.
 
-For example.
+For example,
 
-multienable=1 enables the multiplier
+multienable=1 enables the multiplier.
 multienable=0 disables the multiplier.
 
-NOTE: Every time you edit gtlcontrol.ini you need to exit and reload gtlcontrol.exe
+NOTE: Every time you edit gtlcontrol.ini you need to exit and reload gtlcontrol.exe.
 
-5. To use the application, first start Gigabyte Tweak Launcher and then open gtlcontrol.exe
+5. To use the application, first start Gigabyte Tweak Launcher and then open gtlcontrol.exe.
 
-6. Your hotkeys f1 through to f4 will execute the options you set in gtlcontrol.ini
+6. Your hotkeys f1 through to f4 will execute the options you set in gtlcontrol.ini.
 
 
 
 NOTES:
-The options in the [debug] sections are for just start, debugging.
+The options in the [debug] sections are for debugging, you dont need to touch them.
 
 You may want to disable the teamau splash screen, to do this set title=0
+
+If you dont trust binaries, the source is provided in gtlcontrol.au3, it is written in the autoit scripting language.
