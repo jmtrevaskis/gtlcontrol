@@ -1,0 +1,9 @@
+
+
+v2.0 - 18/11/2012
+
+* added GUI
+* added bclk/multi up/down hotkeys via f7/f8 and f10/f11
+* performance increase
+* check GTL window is running
+* code cleanup

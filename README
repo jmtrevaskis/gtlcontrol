@@ -27,3 +27,13 @@ The options in the [debug] sections are for debugging, you dont need to touch th
 You may want to disable the teamau splash screen, to do this set title=0
 
 If you dont trust binaries, the source is provided in gtlcontrol.au3, it is written in the autoit scripting language.
+
+
+
+v2.0 - 18/11/2012
+
+* added GUI
+* added bclk/multi up/down hotkeys via f7/f8 and f10/f11
+* performance increase
+* check GTL window is running
+* code cleanup
